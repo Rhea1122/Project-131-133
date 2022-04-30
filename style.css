@@ -1,0 +1,22 @@
+.my_head
+{
+    background-color: darkcyan;
+    color: rgb(196, 151, 37);
+    text-decoration: double;
+    width: 100%;
+    font-size: 30;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+.btn
+{
+    color: darkcyan;
+    background-color: rgb(196, 151, 37);
+    border: 5px;
+    border-radius: 2.5px;
+    border-color: darkgrey;
+    border-style: groove;
+    font: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+}
